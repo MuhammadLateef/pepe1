@@ -217,7 +217,7 @@ const HowTobuy = () => {
               </ul>
             </div>
           </div> */}
-          <div className="w-[80%] my-auto border-2 overflow-scroll h-[70vh]">
+          <div className="md:w-[80%] w-[100%] my-auto overflow-scroll h-[70vh]">
             <div className="Uniswap overflow-hidden">
               <SwapWidget width="100%" className="h-screen" />
             </div>
