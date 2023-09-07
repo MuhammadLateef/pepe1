@@ -27,7 +27,7 @@ const Tokenomic = () => {
           >
             <h2 className="sm:text-[20px] text-[16px] text-center text1">Token Supply:</h2>
             <p className="sm:text-[20px] text-[14px] mt-3 text-center text1">420,690,000,000,000</p>
-            <div className="bg-[#264B20]  border-2 p-4 my-8  rounded-bl-[30px] rounded-tr-[30px] border-[#fffef8]">
+            <div className="bg-[#264B20]  border-2 p-4 my-8  hover:scale-105  hover:bg-bgcolor transition duration-300 rounded-bl-[30px] rounded-tr-[30px] border-[#fffef8]">
               <h2 className="mb-8 md:text-[22px] text-[18px]">
                 No Taxes, No Bullshit. It’s that simple.
               </h2>

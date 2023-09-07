@@ -70,7 +70,7 @@ const HowTobuy = () => {
               <>
                 <div
                   key={index}
-                  className="border-2 border-[#fffef8] bg-[#264B20] py-4  rounded-tr-[30px] rounded-bl-[30px] md:px-4 px-1 flex justify-center items-center  hover:bg-[#2d5c25] transition ease-in-out delay-200 my-4 md:flex-row flex-col"
+                  className="border-2 border-[#fffef8] bg-[#264B20] py-4  rounded-tr-[30px] rounded-bl-[30px] md:px-4 px-1 flex justify-center items-center hover:scale-105 hover:bg-bgcolor transition duration-300 transition ease-in-out delay-200 my-4 md:flex-row flex-col"
                 >
                   <div className="md:w-[15%] mx-auto w-[40%] ">
                     <Image
