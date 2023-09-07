@@ -16,6 +16,7 @@ import svg6 from "../../public/Assets/firstsection/svgicons/crypto_com-logo.svg"
 import svg7 from "../../public/Assets/firstsection/svgicons/bitget-logo.svg";
 import svg8 from "../../public/Assets/firstsection/svgicons/mexc-logo.svg";
 import svg9 from "../../public/Assets/firstsection/svgicons/unnamed.svg";
+import social6 from "../../public/Assets/firstsection/svgicons/unisw.svg";
 import svgLine from "../../public/Assets/firstsection/svgicons/svgLine.svg";
 // import backgrounImge from "../../public/Assets/firstsection/bghome.png";
 import backgrounImge from '../../public/Assets/firstsection/bghome.png'
@@ -35,6 +36,7 @@ const page = () => {
               <a href="#"><Image width={100} height={100} className='w-15 hover:scale-110 transition-all ease-in delay-200' src={social3} alt='img' /></a>
               <a href="#"><Image width={100} height={100} className='w-15 hover:scale-110 transition-all ease-in delay-200' src={social4} alt='img' /></a>
               <a href="#"><Image width={100} height={100} className='w-15 hover:scale-110 transition-all ease-in delay-200' src={social5} alt='img' /></a>
+              <a href="#"><Image width={100} height={100} className='w-15 hover:scale-110 transition-all ease-in delay-200' src={social6} alt='img' /></a>
             </div>
           </div>
           <div className="md:w-[35%] w-full md:mt-0 mt-[20px] animate-cls">
